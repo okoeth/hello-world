@@ -6,5 +6,9 @@
 		<members>HelloWorldController</members>
 		<name>ApexClass</name>
 	</types>
+	<types>
+		<members>HelloPage</members>
+		<name>ApexPage</name>
+	</types>	
 	<version>28.0</version>
 </Package>

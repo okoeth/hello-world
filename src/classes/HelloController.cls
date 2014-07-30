@@ -1,7 +1,7 @@
 public with sharing class HelloController {
 	public HelloController() {
 		greeting = 'Hello World!';
-		System.debug('HelloController created');
+		System.debug('HelloController was created');
 	}
 	public String greeting { get; set; } 
 }

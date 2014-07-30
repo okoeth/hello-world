@@ -1,0 +1,14 @@
+{
+    "username": "oliver.koeth@nttdata.com.developer", 
+    "environment": "developer", 
+    "project_name": "hello-world", 
+    "workspace": "/Users/oliverkoeth/Documents/mm-workspace", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "S9HFXGKO7CJSMASZ8TEDVKL0QYU6MICW", 
+    "metadata_container": "1dcb0000000D6RFAA0", 
+    "subscription": [
+        "ApexClass", 
+        "ApexPage"
+    ]
+}

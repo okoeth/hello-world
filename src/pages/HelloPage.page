@@ -1,0 +1,4 @@
+<apex:page showHeader="true" sidebar="true" controller="HelloController">
+	<h1>Greeting Page</h1>
+	<p>{!greeting} {!$User.FirstName}</p>
+</apex:page>
